@@ -1,1 +1,3 @@
-require("./typescript.ts");
+const postcssNested = require("postcss-nested");
+
+console.log(postcssNested);
